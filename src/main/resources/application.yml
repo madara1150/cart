@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://miller:1234@cluster0.pec1hek.mongodb.net/?retryWrites=true&w=majority
+      database: sop
